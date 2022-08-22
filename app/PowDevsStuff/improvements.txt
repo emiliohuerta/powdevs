@@ -1,0 +1,9 @@
+
+
+
+Comentar acerca del shell .. que hay q ejecutarlo apenas arranca la movida
+Luego hay q crear usuario yendo a users/add 
+Luego login , 
+las listas se crean desde el sidebar directo
+Falta eliminar de lista (dejar boton con alerta y un "pendiente de desarrollar")
+Falta testing! installar el php unit o lo q sea !
